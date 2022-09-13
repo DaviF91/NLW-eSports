@@ -1,9 +1,9 @@
 <div align="center">
-  <img alt="Logo Explorer" title="Explorer" src="./readme/logo.png">
+  <img alt="Logo Explorer" title="Explorer" src="./readme/capa.png">
 </div>
 <br>
 <h4 align="center"> 
-	 NLW eSports 🚀 
+	 Next Level Week eSports - Missão Explorer 🚀 
 </h4>
 <br>
 <div align="center">
