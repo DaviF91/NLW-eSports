@@ -8,5 +8,5 @@
 <br>
 <div align="center">
   
-  <a href="#" targert="_blank"> ▶️ Visualizar Página </a>
+  <a href="https://davif91.github.io/NLW-eSports/" targert="_blank"> ▶️ Visualizar Página </a>
 </div>
